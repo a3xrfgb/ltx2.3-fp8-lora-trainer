@@ -1,0 +1,16 @@
+# Sample prompts for LTX-2.3 LoRA training
+# Format: prompt text, then optional flags after --
+# --w width  --h height  --f frame count  --s steps  --d seed  --n negative prompt  --l CFG scale
+
+# prompt 1: baseline / no trigger word - watch this one for overfitting
+A single person, viewed from behind, is visible throughout the clip. This individual appears to have dark hair and is wearing a dark top and what looks like red or orange bottoms. They are seated on a ledge, facing a large view of a city skyline under a dusky, purplish sky. The person remains stationary, looking out at the city. The background shows a dense, illuminated cityscape viewed through a structure with visible metal framing and glass panels. As the video progresses, the person remains seated and facing the view. The dialogue is spoken over the scene, with no visible mouth movements to attribute the words to a specific person. The dialogue includes the lines: "Maybe for you, there's a tomorrow," "Maybe there's one thousand," "Or three thousand," "Or ten," and "For some of us, there's only today. --w 960 --h 544 --f 73 --s 10 --d 42 --l 3.5 --n low quality
+
+
+# prompt 2
+The video opens on a dimly lit interior space with large windows overlooking a cityscape at night. On the floor near the windows, a pair of dark shoes and some folded light-colored clothing are visible. As the scene progresses, the view remains fixed on the window overlooking the city, with neon signs displaying text like "TEACH ME HOW TO." A person, appearing to be a woman with dark hair, is visible standing near the railing overlooking the city in the background. She stands facing the view, looking out over the illuminated buildings. The background is dominated by large digital screens and neon signage displaying Japanese characters and English words. The speaker says, "Welcome to the future. It's just a present, but more about it." The woman remains stationary, looking out over the illuminated cityscape as the text on the screens changes throughout the clip, displaying phrases such as "TEACH ME HOW TO" and Japanese text. --w 960 --h 544 --f 73 --s 10 --d 42 --l 3.5 --n low quality
+
+
+# prompt 3
+The video opens on a dark, indistinct background. Several figures are visible standing on a wet, reflective waterfront promenade facing a large, brightly lit cityscape. The figures are silhouetted against the background lights. The central figure, appearing to be a person of indeterminate gender and age, has dark hair and is wearing a dark, long-sleeved top or jacket. To the right, another person, also silhouetted, stands slightly further away. As the frames progress, the central figure remains facing the city, occasionally shifting their weight. The background features numerous skyscrapers displaying large illuminated advertisements, including visible text like "desire," "SONY," and "HAPPINESS IS NOW AVAILABLE." The figures maintain a stationary or slowly moving posture throughout the sequence, observing the illuminated buildings. The setting is a waterfront area with a large body of water and a prominent suspension bridge visible in the background. --w 960 --h 544 --f 73 --s 10 --d 42 --l 3.5 --n low quality
+
+

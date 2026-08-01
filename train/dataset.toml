@@ -1,0 +1,10 @@
+[general]
+resolution = [512, 320]
+caption_extension = ".txt"
+batch_size = 1
+enable_bucket = true
+cache_directory = "dataset/cache"
+
+[[datasets]]
+video_directory = "dataset/videos"
+target_frames = [1, 17, 33]
