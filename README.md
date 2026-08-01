@@ -2,7 +2,7 @@
 
 
 
-## Just clone the repo and manually create the following folders. 
+## Just clone the repo and manually create the following folders.  Musubi[https://github.com/kohya-ss/musubi-tuner]
 <img width="1001" height="742" alt="image" src="https://github.com/user-attachments/assets/91449acb-4efb-4022-9710-2e6498904ecc" />
 
 ## Dataset (create cache and videos folder)
