@@ -2,11 +2,11 @@
 
 
 
-## Just clone the repo or mine Musubi https://github.com/kohya-ss/musubi-tuner
+Just clone the repo https://github.com/kohya-ss/musubi-tuner
+and manually create the following folders.
+
 <img width="1001" height="742" alt="image" src="https://github.com/user-attachments/assets/91449acb-4efb-4022-9710-2e6498904ecc" />
 
-
-# manually create the following folders.
 
 ## 1, Dataset folder (create cache and videos folder and put your training videos here, the cache folder will be used by the model later)
 <img width="843" height="278" alt="image" src="https://github.com/user-attachments/assets/306f66e6-dbaa-4e08-8f4c-8dbbf5f81fc0" />
