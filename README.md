@@ -10,6 +10,7 @@ and manually create the following folders.
 
 ## 1, Dataset folder (create cache and videos folder and put your training videos here, the cache folder will be used by the model later)
 <img width="843" height="278" alt="image" src="https://github.com/user-attachments/assets/306f66e6-dbaa-4e08-8f4c-8dbbf5f81fc0" />
+
  video folder should look like this, with your dataset containing the training captions.
  <img width="1118" height="822" alt="image" src="https://github.com/user-attachments/assets/53737386-945f-406d-8b5d-96da67581bc1" />
 
