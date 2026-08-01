@@ -2,7 +2,7 @@
 
 
 
-Just clone the repo https://github.com/kohya-ss/musubi-tuner
+Just clone this repo or from https://github.com/kohya-ss/musubi-tuner
 and manually create the following folders.
 
 <img width="1001" height="742" alt="image" src="https://github.com/user-attachments/assets/91449acb-4efb-4022-9710-2e6498904ecc" />
