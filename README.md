@@ -2,7 +2,7 @@
 
 
 
-## Just clone the repo or mine (Musubi)[https://github.com/kohya-ss/musubi-tuner]
+## Just clone the repo or mine [Musubi](https://github.com/kohya-ss/musubi-tuner)
 <img width="1001" height="742" alt="image" src="https://github.com/user-attachments/assets/91449acb-4efb-4022-9710-2e6498904ecc" />
 
 
